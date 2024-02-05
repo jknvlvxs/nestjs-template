@@ -1,3 +1,7 @@
+<p  align="center">
+<a  href="http://nestjs.com/"  target="blank"><img  src="https://nestjs.com/img/logo_text.svg"  width="180"  alt="Nest Logo"  /></a>
+</p>
+
 # NestJS Backend Template
 
 This is a template repository for building robust and scalable backend applications using NestJS, a progressive Node.js framework. Whether you are starting a new project or looking to improve an existing one, this template provides a solid foundation with best practices in mind.
